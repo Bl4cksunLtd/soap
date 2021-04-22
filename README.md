@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/globusdigital/soap"
+	"github.com/Bl4cksunLtd/soap"
 )
 
 // FooRequest a simple request
@@ -68,7 +68,7 @@ import (
 	"encoding/xml"
 	"log"
 
-	"github.com/globusdigital/soap"
+	"github.com/Bl4cksunLtd/soap"
 )
 
 // FooRequest a simple request
