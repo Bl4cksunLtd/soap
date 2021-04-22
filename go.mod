@@ -1,4 +1,4 @@
-module github.com/globusdigital/soap
+module github.com/Bl4cksunLtd/soap
 
 go 1.16
 
