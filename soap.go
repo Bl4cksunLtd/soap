@@ -15,6 +15,7 @@ const (
 
 	NamespaceSoap11 = "http://schemas.xmlsoap.org/soap/envelope/"
 	NamespaceSoap12 = "http://www.w3.org/2003/05/soap-envelope"
+	Version	=	"1.1a"
 )
 
 var (
